@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 name: David's Github Pages Site
-title: null
-
+title: ["My Github Pages Site"]
+description: ["Tech explainers for software developers"]
