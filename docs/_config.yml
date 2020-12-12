@@ -1,5 +1,6 @@
-theme: jekyll-theme-tactile
-title: "David's Github Page"
+title: "My Github Page"
 description: "Tech explainers for software developers"
 show_downloads: false
 google_analytics: "G-3FXJQWF23Z"
+theme: jekyll-theme-tactile
+
