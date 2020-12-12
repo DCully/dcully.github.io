@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
 title: "David's Github Page"
 description: "Tech explainers for software developers"
-show_downloads: "false"
+show_downloads: false
 google_analytics: "G-3FXJQWF23Z"
